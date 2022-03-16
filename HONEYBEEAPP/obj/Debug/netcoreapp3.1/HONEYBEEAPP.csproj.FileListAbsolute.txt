@@ -1,0 +1,4 @@
+C:\Users\snvin\Downloads\HONEYBEEAPP\HONEYBEEAPP\obj\Debug\netcoreapp3.1\HONEYBEEAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snvin\Downloads\HONEYBEEAPP\HONEYBEEAPP\obj\Debug\netcoreapp3.1\HONEYBEEAPP.AssemblyInfoInputs.cache
+C:\Users\snvin\Downloads\HONEYBEEAPP\HONEYBEEAPP\obj\Debug\netcoreapp3.1\HONEYBEEAPP.AssemblyInfo.cs
+C:\Users\snvin\Downloads\HONEYBEEAPP\HONEYBEEAPP\obj\Debug\netcoreapp3.1\HONEYBEEAPP.csproj.CoreCompileInputs.cache
